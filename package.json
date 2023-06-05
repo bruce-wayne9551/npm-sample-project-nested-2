@@ -6,6 +6,6 @@
         "hexo-cli": "4.2.0",
         "d3-interpolate":"1.4.0",
         "minimist": "1.2.5",
-        "moment":"2.29.1"
+        "moment":"2.29.4"
     }
 }
